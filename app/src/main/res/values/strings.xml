@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetPassengers</string>
+    <string name="list_header">Returned Passenger List: </string>
+</resources>
